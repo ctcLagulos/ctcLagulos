@@ -3,14 +3,12 @@
 I'm a passionate developer and creator with expertise in **web programming, game development, and music production**. I enjoy building functional, interactive, and engaging digital experiences across different platforms.  
 
 ### Web Development  
-- **Frontend:** React.js, Next.js, Vue.js, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js (Express), Django, Flask, Laravel  
-- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase  
-- **Other Skills:** RESTful APIs, GraphQL, WebSockets, Progressive Web Apps (PWAs), Web Security  
+- **Frontend:** React.js, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js (Express), Django 
+- **Databases:** MySQL, Firebase  
 
 ### Game Development  
-- **Engines:** Unity (C#), Godot (GDScript), Unreal Engine (Blueprints, C++)  
-- **Game Design:** Level design, procedural generation, physics-based mechanics  
+- **Engines:** Unity (C#), Godot (GDScript)
 - **Graphics & Animation:** Shader programming (HLSL, GLSL), Spine 2D, Blender  
 
 ### Music Production  
